@@ -1,6 +1,3 @@
-# 3010292_ITNPAI1_Assignment
-
-
 ## Task A - Task_A_Image_denoising
   1. Noise_Analysis.ipynb        - Noisy analysis on images
   2. Task_A_Mean_Filter.ipynb    - Mean Filter on all Noisy10, Noisy25, Noisy50 images
